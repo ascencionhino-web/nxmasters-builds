@@ -1,6 +1,6 @@
-RE Outbreak - Switch
+Call of Duty 4 - Modern Warfare [NDS] - Switch (PlayStation 2)
 Hecho por grupo NX masters
-Créditos a Erick Escobedo
+Créditos a Ascencion H.O
 
 Base y software original
 - NetherSX2 Switch Port por NaGaa95 (https://github.com/NaGaa95/NetherSX2_nx), licencia MIT
